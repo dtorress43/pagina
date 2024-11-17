@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Articles sobre l&apos;Enumeració de Hosts a través de DNS</title>
+        <link>http://tu-dominio.ga</link> <!-- Cambia este enlace al dominio donde publiques tu página -->
+        <description>Llista d&apos;articles en anglès sobre l&apos;enumeració de hosts a través de DNS</description>
+        
+        <item>
+            <title>Microsoft Learn - Enumerating Zones (DNS)</title>
+            <link>https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-dnsp/0c06b63e-e544-4987-89e6-7d674d719a14</link>
+            <description>Aquest article descriu com llistar totes les zones d&apos;un servidor DNS.</description>
+        </item>
+        
+        <item>
+            <title>Recorded Future - What is DNS Enumeration? Top Tools and Techniques Explained</title>
+            <link>https://www.recordedfuture.com/threat-intelligence-101/tools-and-techniques/dns-enumeration</link>
+            <description>Tracta conceptes d&apos;enumeració de DNS com la cerca inversa i la transferència de zones.</description>
+        </item>
+        
+        <item>
+            <title>GoLinuxCloud - 5 DNS Enumeration Tools with Best Practices &amp; Examples</title>
+            <link>https://www.golinuxcloud.com/dns-enumeration/</link>
+            <description>Descriu eines populars per a l&apos;enumeració de DNS com dnsenum i DNSRecon.</description>
+        </item>
+        
+        <item>
+            <title>Infosec Institute - DNS Enumeration Techniques in Linux</title>
+            <link>https://www.infosecinstitute.com/resources/penetration-testing/dns-enumeration-techniques-in-linux/</link>
+            <description>Centrat en l&apos;ús d&apos;eines com nslookup i dig en entorns Linux.</description>
+        </item>
+        
+        <item>
+            <title>White Hat Institute - DNS Enumeration Techniques</title>
+            <link>https://whitehatinstitute.com/dns-enumeration-techniques/</link>
+            <description>Explica com interactuar amb un servidor DNS i fer consultes per obtenir registres específics.</description>
+        </item>
+
+    </channel>
+</rss>
